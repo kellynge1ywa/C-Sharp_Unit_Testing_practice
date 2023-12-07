@@ -1,0 +1,14 @@
+D:\Teach2Give\assignments\Unit_testing\Tests\bin\Debug\net8.0\Tests.exe
+D:\Teach2Give\assignments\Unit_testing\Tests\bin\Debug\net8.0\Tests.deps.json
+D:\Teach2Give\assignments\Unit_testing\Tests\bin\Debug\net8.0\Tests.runtimeconfig.json
+D:\Teach2Give\assignments\Unit_testing\Tests\bin\Debug\net8.0\Tests.dll
+D:\Teach2Give\assignments\Unit_testing\Tests\bin\Debug\net8.0\Tests.pdb
+D:\Teach2Give\assignments\Unit_testing\Tests\obj\Debug\net8.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teach2Give\assignments\Unit_testing\Tests\obj\Debug\net8.0\Tests.AssemblyInfoInputs.cache
+D:\Teach2Give\assignments\Unit_testing\Tests\obj\Debug\net8.0\Tests.AssemblyInfo.cs
+D:\Teach2Give\assignments\Unit_testing\Tests\obj\Debug\net8.0\Tests.csproj.CoreCompileInputs.cache
+D:\Teach2Give\assignments\Unit_testing\Tests\obj\Debug\net8.0\Tests.dll
+D:\Teach2Give\assignments\Unit_testing\Tests\obj\Debug\net8.0\refint\Tests.dll
+D:\Teach2Give\assignments\Unit_testing\Tests\obj\Debug\net8.0\Tests.pdb
+D:\Teach2Give\assignments\Unit_testing\Tests\obj\Debug\net8.0\Tests.genruntimeconfig.cache
+D:\Teach2Give\assignments\Unit_testing\Tests\obj\Debug\net8.0\ref\Tests.dll
